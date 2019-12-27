@@ -1,0 +1,2 @@
+# SPAzureGitRepo
+Azure learning repo
